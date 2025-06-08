@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>November 1993 Calendar</title>
+</head>
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <th colspan="7">November 1993</th>
+        </tr>
+        <tr>
+            <th>Sunday</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
+        </tr>
+        <tr>
+            <td height="100" valign="top" align="left">1</td>
+            <td height="100" valign="top" align="left">2</td>
+            <td height="100" valign="top" align="left">3</td>
+            <td height="100" valign="top" align="left">4</td>
+            <td height="100" valign="top" align="left">5</td>
+            <td height="100" valign="top" align="left">6</td>
+        </tr>
+        <tr>
+            <td height="100" valign="top" align="left">7</td>
+            <td height="100" valign="top" align="left">8</td>
+            <td height="100" valign="top" align="left">9</td>
+            <td height="100" valign="top" align="left">10</td>
+            <td height="100" valign="top" align="left">11</td>
+            <td height="100" valign="top" align="left">12</td>
+            <td height="100" valign="top" align="left">13</td>
+        </tr>
+        <tr>
+            <td height="100" valign="top" align="left">14</td>
+            <td height="100" valign="top" align="left">15</td>
+            <td height="100" valign="top" align="left">16</td>
+            <td height="100" valign="top" align="left">17</td>
+            <td height="100" valign="top" align="left">18</td>
+            <td height="100" valign="top" align="left">19</td>
+            <td height="100" valign="top" align="left">20</td>
+        </tr>
+        <tr>
+            <td height="100" valign="top" align="left">21</td>
+            <td height="100" valign="top" align="left">22</td>
+            <td height="100" valign="top" align="left">23</td>
+            <td height="100" valign="top" align="left">24</td>
+            <td height="100" valign="top" align="left">25</td>
+            <td height="100" valign="top" align="left">26</td>
+            <td height="100" valign="top" align="left">27</td>
+        </tr>
+        <tr>
+            <td height="100" valign="top" align="left" bgcolor="yellow">28</td>
+            <td height="100" valign="top" align="left">29</td>
+            <td height="100" valign="top" align="left">30</td>
+            <td height="100" valign="top" align="left"> </td>
+            <td height="100" valign="top" align="left"> </td>
+            <td height="100" valign="top" align="left"> </td>
+            <td height="100" valign="top" align="left"> </td>
+        </tr>
+    </table>
+</body>
+</html>
